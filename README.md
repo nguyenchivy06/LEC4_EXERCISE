@@ -1,1 +1,1 @@
-LEC4_Exercies
+LEC4_Exercise
